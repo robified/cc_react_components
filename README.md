@@ -1,6 +1,6 @@
 # cc_react_components
 
-This repo consists of me working on miscellaneous projects using NodeJS, JavaScript, JSX, and ReactJS.
+This repo consists of me working on miscellaneous projects using NodeJS, JavaScript, JSX, ReactJS, and Semantic UI.
 
 Concepts learned:
 
